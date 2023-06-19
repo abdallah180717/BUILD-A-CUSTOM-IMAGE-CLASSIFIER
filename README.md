@@ -41,9 +41,9 @@ To simplify this part, we've created a camera program that captures photos and o
 
 ## 2.Open the Terminal, navigate to the ~/aiy-maker-kit/examples/ directory, and start the camera program (it won't take any pictures until you press a number key):
 
-
+```
 python3 collect_images.py --labels labels.txt
-""
+```
 
 
 
